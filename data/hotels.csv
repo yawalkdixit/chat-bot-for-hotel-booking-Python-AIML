@@ -1,0 +1,150 @@
+HotelName,location,roomtariffplan,nights,hotelclass,phone
+The Oberoi Cecil,Delhi,Luxury,5,5 star,12345
+The Lalit Grand Palace,Delhi,Luxury,5,4 star,12346
+Hotel Fateh Prakash Palace,Delhi,Luxury,5,3 star,12347
+Shiv Niwas Palace,Delhi,Luxury,5,2 star,12348
+Savoy Hotel ,Delhi,Luxury,5,1 star,12349
+Raheem Residency,Delhi,Luxury,2,4 star,12350
+Noor Us Sabah Palace,Delhi,Luxury,2,5 star,12351
+The Panjim Inn ,Delhi,Luxury,3,5 star,12352
+Balaram Palace Resort,Delhi,Standard,3,5 star,12353
+Nilambag Palace Hotel,Delhi,Standard,3,3 star,12354
+The Fort Ramgarh,Delhi,Standard,3,4 star,12355
+The Judges Court,Delhi,Standard,3,2 star,12356
+The Palace,Delhi,Standard,3,1 star,12357
+The Castle Naggar,Delhi,Standard,3,2 star,12358
+Hotel Cherthala House,Delhi,Luxury,3,5 star,12359
+Heritaga Methanam,Delhi,Deluxe,3,5 star,12360
+Old Lighthouse Bristow Hotel ,Delhi,Deluxe,3,4 star,12361
+Hotel Le Colonial ,Delhi,Deluxe,3,1 star,12362
+Kunnathur Mana Ayurveda Heritage,Delhi,Deluxe,3,3 star,12363
+Old Harbour Hotel,Delhi,Deluxe,3,1 star,12364
+Riviera De Goa Resort,Hyderabad,Standard,5,5 star,12417
+Vivanta by Taj - Panaji,Hyderabad,Standard,5,5 star,12418
+Vivanta by Taj - Holiday,Hyderabad,Standard,5,3 star,12419
+Bell Tower Resorts Pvt.Ltd. ,Hyderabad,Standard,5,5 star,12420
+Hotel Ramada Caravela Beach Resort,Hyderabad,Standard,5,2 star,12421
+Vivanta By Taj- Fort Aguada,Hyderabad,Standard,5,2 star,12422
+Th Lalit Golf & Spa Resort Goa,Hyderabad,Standard,5,2 star,12423
+Resort Rio,Hyderabad,Standard,5,2 star,12424
+Hotel Cidade de Goa,Hyderabad,Standard,5,2 star,12425
+Majorda Beach Resort,Hyderabad,Standard,5,1 star,12426
+"The Leela Kempinski, Goa",Hyderabad,Standard,5,5 star,12427
+Hotel Trident - Gurgaon,Hyderabad,Standard,5,5 star,12428
+The Leela Kempinski -  Gurgaon,Hyderabad,Standard,5,5 star,12429
+The Bristol Hotel,Hyderabad,Standard,5,5 star,12430
+Wildflower Hall,Hyderabad,Standard,5,4 star,12431
+Vivanta by Taj -  Whitefield,Hyderabad,Standard,5,5 star,12432
+Hotel Golden Palms Hotel & Spa,Hyderabad,Standard,5,5 star,12433
+ITC Hotel Windsor & Towers ,Hyderabad,Luxury,5,1 star,12434
+The Taj West End,Hyderabad,Luxury,5,2 star,12435
+Sheraton Banglore at Brigade Gateway,Hyderabad,Luxury,5,5 star,12436
+The Oberoi Bangalore,Hyderabad,Luxury,5,5 star,12437
+Vivanta by Taj -  Bangalore,Hyderabad,Luxury,5,5 star,12438
+Park Plaza,Hyderabad,Luxury,5,5 star,12439
+Dream Hotel Cochin,Hyderabad,Luxury,5,5 star,12440
+Vivanta by Taj - Bekal ,Hyderabad,Luxury,5,5 star,12441
+The Lalit Resorts & Spa Bekal,Hyderabad,Luxury,5,5 star,12442
+Vivanta By Taj - Kovalam,Hyderabad,Luxury,5,5 star,12443
+Vivanta by - Taj Malabar ,Hyderabad,Luxury,5,5 star,12444
+The Raviz Kollam,Hyderabad,Luxury,5,5 star,12445
+Kovalam Resort Private Limited,Hyderabad,Luxury,5,5 star,12446
+The Grand Temple View ,Hyderabad,Luxury,5,5 star,12447
+Hotel Chandela,Hyderabad,Luxury,5,4 star,12448
+Chalet Hotel,Hyderabad,Luxury,5,3 star,12449
+Four Seasons Hotel,Hyderabad,Luxury,5,3 star,12450
+HOTEL SAHARA STAR ,Hyderabad,Luxury,5,3 star,12451
+Hyatt Regency Mumbai,Hyderabad,Luxury,5,3 star,12452
+Le Royal Meridien ,Hyderabad,Luxury,5,4 star,12453
+Holiday Regency,Bangalore,Deluxe,5,5 star,12485
+Jaypee Residency Manor,Bangalore,Deluxe,5,4 star,12486
+ITC Sonar,Bangalore,Deluxe,5,3 star,12487
+Hotel Ista Hyderabad,Bangalore,Deluxe,5,4 star,12488
+Hotel Novotel Hyderabad,Bangalore,Deluxe,5,2 star,12489
+Novotel Hyderabad Airport ,Bangalore,Deluxe,5,4 star,12490
+The Gateway Hotel ,Bangalore,Deluxe,5,1 star,12491
+Taj Deccan - Hyderabad,Bangalore,Luxury,5,4 star,12492
+Leo Meridian Infrastructure,Bangalore,Luxury,5,4 star,12493
+Hotel Mountview,Bangalore,Luxury,5,5 star,12494
+Hotel Crowne Plaza Today,Bangalore,Luxury,5,4 star,12495
+Vivanta by Taj Ambassador,Bangalore,Luxury,5,4 star,12496
+Fortune Select Regina ,Bangalore,Luxury,5,3 star,12497
+Bogmallo Beach Resort,Bangalore,Luxury,5,4 star,12498
+DEVAAYA AYURVEDA SPA RESORT ,Bangalore,Luxury,5,4 star,12499
+Holiday Inn Resort,Bangalore,Luxury,5,4 star,12500
+The Crown Goa,Bangalore,Luxury,5,2 star,12501
+Hotel Neo Majestic,Bangalore,Luxury,5,4 star,12502
+The Kenilworth Beach Resort & Spa,Bangalore,Luxury,5,4 star,12503
+Hotel La Calypso Get Aways.,Bangalore,Luxury,5,4 star,12504
+"The ""O""",Bangalore,Luxury,5,4 star,12505
+Sun-n-Sand Hotel,Bangalore,Luxury,5,1 star,12506
+The Imperial Palace ,Bangalore,Luxury,5,4 star,12507
+Le Meridien,Bangalore,Luxury,5,4 star,12508
+The Gateway Hotel Ummed,Bangalore,Luxury,5,4 star,12509
+The Galaxy Hotel,Bangalore,Luxury,5,4 star,12510
+THE CHANCERY PAVILION,Bangalore,Luxury,5,4 star,12511
+The Zuri - Whitefield,Bangalore,Luxury,5,4 star,12512
+Fortune Park J. P. Palace,Bangalore,Standard,5,4 star,12513
+Hotel Le Meridien - Bangalore,Bangalore,Standard,5,4 star,12514
+Movenpick Hotel & Spa Bangalore,Bangalore,Standard,5,5 star,12515
+Club Mahindra Lakeview,Bangalore,Standard,5,4 star,12516
+The Quilon Beach Hotel,Bangalore,Standard,5,4 star,12517
+The Elephant Court,Bangalore,Standard,5,4 star,12518
+Turtle On The Beach,Bangalore,Standard,5,4 star,12519
+Casino Hotel,Bangalore,Standard,5,4 star,12520
+"Trident, Cochin",Bangalore,Standard,5,4 star,12521
+The Gateway Hotel -Ernakulam,Bangalore,Standard,5,4 star,12522
+Kadavu Resort & Ayurveda Centre,Bangalore,Standard,5,4 star,12523
+The Muthoot Plaza Hotel,Bangalore,Standard,5,3 star,12524
+Taj Residency - Trivandrum,Bangalore,Standard,5,4 star,12525
+Hotel Ramada -  Khajuraho,Bangalore,Standard,5,4 star,12526
+Radisson Jass Hotel,Bangalore,Standard,5,4 star,12527
+Grand Sarovar Premiere,Bangalore,Standard,5,4 star,12528
+Hotel Meluha,Bangalore,Standard,5,4 star,12529
+Hotel Tunga Regency Pvt.Ltd. ,Bangalore,Standard,5,2 star,12530
+Ramada Plaza Palm Grove,Bangalore,Standard,5,4 star,12531
+The Shalimar Hotel ,Bangalore,Standard,5,4 star,12532
+THE PRIDE HOTEL ,Bangalore,Standard,5,1 star,12533
+Four Points By Sheraton,Bangalore,Standard,5,4 star,12534
+Taj Blue Diamond,Bangalore,Standard,5,4 star,12535
+The O Hotel,Bangalore,Standard,5,4 star,12536
+Taj Residency - Aurangabad,Bangalore,Standard,5,4 star,12537
+Hotel Sea Princess ,Bangalore,Standard,5,4 star,12538
+The Gateway Hotel,Bangalore,Standard,5,4 star,12539
+Hotel Parc Estique,Bangalore,Standard,5,4 star,12540
+Radisson Windsor Hotel ,Bangalore,Standard,5,4 star,12541
+Majestic Park Plaza ,Bangalore,Standard,5,4 star,12542
+Hotel Mansingh,Bangalore,Standard,5,4 star,12543
+"Hotel Trident, Jaipur",Bangalore,Standard,5,4 star,12544
+Fortune Select Metropolitan - Jaipur,Bangalore,Standard,5,4 star,12545
+Chokhi Dhani,Bangalore,Standard,5,4 star,12546
+Inder Residency,Bangalore,Standard,5,4 star,12547
+Denzong Regency,Bangalore,Standard,5,4 star,12548
+The Gateway Hotel Pasumalai Madurai,Bangalore,Standard,5,4 star,12549
+Radisson Hotel GRT,Bangalore,Standard,5,3 star,12550
+Trident - Chennai,Bangalore,Standard,5,3 star,12551
+Hotel Clarks Shiraz,Bangalore,Standard,5,3 star,12552
+Hotel Trident - Agra,Bangalore,Standard,5,3 star,12553
+Country Inn & Suites by Carlson.,Bangalore,Standard,5,3 star,12554
+Radisson Hotel Varanasi,Bangalore,Standard,5,3 star,12555
+"The Gateway Hotel, Agra",Bangalore,Standard,5,3 star,12556
+Hotel Hindusthan International,Bangalore,Standard,5,3 star,12557
+Swissotel Kolkata Neotia Vista,Bangalore,Standard,5,3 star,12558
+The Golkonda,Bangalore,Standard,4,3 star,12559
+Palm Beach Hotel,Bangalore,Standard,4,3 star,12560
+SEASONS SERVICE APARTMENTS,Hyderabad,Deluxe,4,1 star,12625
+HOTEL BAWA INTERNATIONAL,Hyderabad,Deluxe,4,2 star,12626
+Hotel Courtyard By Marriott,Hyderabad,Deluxe,4,1 star,12627
+Hotel Midtown Pritam,Hyderabad,Deluxe,4,1 star,12628
+Hotel Trident,Hyderabad,Deluxe,4,1 star,12629
+Hotel Tunga Regale,Hyderabad,Deluxe,4,3 star,12630
+Ramee Guestline Hotel,Hyderabad,Deluxe,4,1 star,12631
+"K. Raheja Corp. Pvt. Ltd. ""The Resort""",Hyderabad,Deluxe,4,1 star,12632
+Hotel Sagar Plaza,Hyderabad,Deluxe,4,1 star,12633
+The Central Park Hotel,Hyderabad,Deluxe,4,4 star,12634
+Holiday Inn Mumbai International Airport,Hyderabad,Deluxe,4,1 star,12635
+The Emerald,Hyderabad,Deluxe,4,1 star,12636
+Hotel Polo Tower,Hyderabad,Deluxe,4,1 star,12637
+M.K.HOTEL,Hyderabad,Deluxe,4,5 star,12638
+THE MAYA HOTEL (Maya Inns Ltd.),Hyderabad,Deluxe,4,1 star,12639
+Hotel Ritz Plaza,Hyderabad,Deluxe,4,1 star,12640

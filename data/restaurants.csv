@@ -1,0 +1,306 @@
+RestaurantName,Address,cusine,neighbourhood,costtype,phone
+The Oberoi Cecil,HIMACHAL PRADESH,indian,east,cheap,123456
+The Lalit Grand Palace,JAMMU AND KASHMIR,indian,east,cheap,123457
+Hotel Fateh Prakash Palace,RAJASTHAN,indian,east,medium,123458
+Shiv Niwas Palace,RAJASTHAN,indian,east,cheap,123459
+Savoy Hotel ,TAMIL NADU,indian,east,expensive,123460
+Raheem Residency,KERALA,indian,east,medium,123461
+Noor Us Sabah Palace,MADHYA PRADESH,indian,north,medium,123462
+The Panjim Inn ,GOA,indian,north,cheap,123463
+Balaram Palace Resort,GUJARAT,indian,north,medium,123464
+Nilambag Palace Hotel,GUJARAT,indian,north,expensive,123465
+The Fort Ramgarh,HARYANA,indian,north,medium,123466
+The Judges Court,HIMACHAL PRADESH,indian,north,medium,123467
+The Palace,HIMACHAL PRADESH,indian,north,medium,123468
+The Castle Naggar,HIMACHAL PRADESH,indian,north,medium,123469
+Hotel Cherthala House,KERALA,indian,west,medium,123470
+Heritaga Methanam,KERALA,indian,west,cheap,123471
+Old Lighthouse Bristow Hotel ,KERALA,indian,west,medium,123472
+Hotel Le Colonial ,KERALA,indian,west,expensive,123473
+Kunnathur Mana Ayurveda Heritage,KERALA,indian,west,medium,123474
+Old Harbour Hotel,KERALA,indian,north,medium,123475
+Coconut Lagoon,KERALA,indian,north,medium,123476
+Beach Hotel,KERALA,indian,north,medium,123477
+Palakkad Heritage Hotels,KERALA,indian,north,medium,123478
+Somatheeram Ayurvedic Beach Resort (P) Ltd.,KERALA,indian,north,medium,123479
+The Hillway Heritage,KERALA,indian,north,medium,123480
+Ahilya Fort ,MADHYA PRADESH,indian,north,medium,123481
+Hotel Rock End Manor ,MADHYA PRADESH,indian,north,medium,123482
+Satpura Retreat,MADHYA PRADESH,indian,north,medium,123483
+Hotel Sheesh Mahal ,MADHYA PRADESH,indian,north,medium,123484
+Jehan Numa Palace Hotel ,MADHYA PRADESH,indian,north,medium,123485
+LE DUPLEIX ,PONDICHERRY,indian,north,medium,123486
+Calve,PONDICHERRY,indian,north,medium,123487
+"Welcome Heritage, Khimsar Fort",RAJASTHAN ,indian,north,medium,123488
+The Bagh ,RAJASTHAN ,indian,south,medium,123489
+Gajner Palace,RAJASTHAN,indian,south,cheap,123490
+The Laxmi Niwas Palace ,RAJASTHAN,indian,south,medium,123491
+Chomu Palace,RAJASTHAN ,indian,south,expensive,123492
+Bissau Palace ,RAJASTHAN ,indian,south,medium,123493
+Deogarh Resorts,RAJASTHAN ,indian,south,medium,123494
+Shikarbadi Hotel,RAJASTHAN ,indian,south,medium,123495
+Welcom Heritage - Koolwal Kothi,RAJASTHAN ,indian,south,medium,123496
+Ajit Bhawan,RAJASTHAN ,indian,south,medium,123497
+Hotel Samode Palace,RAJASTHAN,indian,north,medium,123498
+Raj Niwas Palace,RAJASTHAN,indian,north,medium,123499
+Hotel Castle Mandawa Pvt.Ltd.,RAJASTHAN,indian,north,medium,123500
+Rohet Garh,RAJASTHAN,indian,north,medium,123501
+Lake Pichola Hotel,RAJASTHAN,indian,north,medium,123502
+The Ramgarh Lodge,RAJASTHAN,indian,north,medium,123503
+Hotel Indra Villas ,RAJASTHAN,indian,north,medium,123504
+Singhasan Haveli,RAJASTHAN,indian,north,medium,123505
+Fort Khejarla,RAJASTHAN,indian,north,medium,123506
+Sardargarh Heritage Hotel ,RAJASTHAN,indian,north,medium,123507
+The Sawai Madhopur Lodge,RAJASTHAN,indian,north,medium,123508
+Karni Bhawan Palace ,RAJASTHAN,indian,north,medium,123509
+Norkhill Hotel ,SIKKIM,indian,north,medium,123510
+Visalam,TAMIL NADU,indian,north,medium,123511
+Hotel Fairhavens Holiday Home,UTTARAKHAND,indian,north,medium,123512
+The Naini Retreat,UTTARAKHAND,indian,north,medium,123513
+The Elgin Hotel,WEST BENGAL,indian,north,medium,123514
+Taj Falaknuma Palace ,ANDHRA PRADESH,indian,north,expensive,123515
+ITC HOTEL KAKATIYA,ANDHRA PRADESH,indian,north,expensive,123516
+Eros Hotel Managed by Hilton,DELHI,indian,north,expensive,123517
+The Ashok,DELHI,indian,north,expensive,123518
+Hotel Imperial,DELHI,indian,north,expensive,123519
+Hyatt Regency Delhi,DELHI,indian,north,expensive,123520
+ITC-The Maurya,DELHI,indian,north,expensive,123521
+Le Meridien Hotel,DELHI,indian,north,expensive,123522
+Taj Palace Hotel ,DELHI,indian,north,expensive,123523
+The Lalit,DELHI,italian,north,cheap,123524
+The Oberoi -  New Delhi,DELHI,italian,north,expensive,123525
+"Aman, New Delhi",DELHI,italian,north,medium,123526
+The Hotel Leela Palace Kempinski,DELHI,italian,north,expensive,123527
+Riviera De Goa Resort,GOA,italian,north,expensive,123528
+Vivanta by Taj - Panaji,GOA,italian,north,expensive,123529
+Vivanta by Taj - Holiday,GOA,italian,north,expensive,123530
+Bell Tower Resorts Pvt.Ltd. ,GOA,italian,south,expensive,123531
+Hotel Ramada Caravela Beach Resort,GOA,italian,south,cheap,123532
+Vivanta By Taj- Fort Aguada,GOA,italian,south,medium,123533
+Th Lalit Golf & Spa Resort Goa,GOA,italian,south,expensive,123534
+Resort Rio,GOA,italian,west,expensive,123535
+Hotel Cidade de Goa,GOA,italian,west,expensive,123536
+Majorda Beach Resort,GOA,italian,west,cheap,123537
+"The Leela Kempinski, Goa",GOA,italian,west,expensive,123538
+Hotel Trident - Gurgaon,HARYANA,italian,west,medium,123539
+The Leela Kempinski -  Gurgaon,HARYANA,italian,west,expensive,123540
+The Bristol Hotel,HARYANA,italian,south,expensive,123541
+Wildflower Hall,HIMACHAL PRADESH,italian,south,cheap,123542
+Vivanta by Taj -  Whitefield,KARNATAKA,italian,south,expensive,123543
+Hotel Golden Palms Hotel & Spa,KARNATAKA,italian,south,medium,123544
+ITC Hotel Windsor & Towers ,KARNATAKA,italian,south,expensive,123545
+The Taj West End,KARNATAKA,italian,south,expensive,123546
+Sheraton Banglore at Brigade Gateway,KARNATAKA,italian,south,expensive,123547
+The Oberoi Bangalore,KARNATAKA,italian,south,expensive,123548
+Vivanta by Taj -  Bangalore,KARNATAKA,italian,south,expensive,123549
+Park Plaza,KARNATAKA,italian,south,expensive,123550
+Dream Hotel Cochin,KERALA,italian,south,expensive,123551
+Vivanta by Taj - Bekal ,KERALA,italian,south,expensive,123552
+The Lalit Resorts & Spa Bekal,KERALA,italian,south,expensive,123553
+Vivanta By Taj - Kovalam,KERALA,italian,south,expensive,123554
+Vivanta by - Taj Malabar ,KERALA,italian,south,expensive,123555
+The Raviz Kollam,KERALA,italian,south,expensive,123556
+Kovalam Resort Private Limited,KERALA,italian,south,expensive,123557
+The Grand Temple View ,MADHYA PRADESH,italian,south,expensive,123558
+Hotel Chandela,MADHYA PRADESH,italian,south,expensive,123559
+Chalet Hotel,MAHARASHTRA,italian,south,expensive,123560
+Four Seasons Hotel,MAHARASHTRA,italian,south,expensive,123561
+HOTEL SAHARA STAR ,MAHARASHTRA,italian,south,expensive,123562
+Hyatt Regency Mumbai,MAHARASHTRA,italian,south,expensive,123563
+Le Royal Meridien ,MAHARASHTRA,italian,south,expensive,123564
+Sun-n-Sand Hotels Pvt. Ltd.,MAHARASHTRA,italian,south,expensive,123565
+The Taj Mahal Palace & Tower ,MAHARASHTRA,italian,south,expensive,123566
+Hotel Le Meridien,MAHARASHTRA,italian,south,expensive,123567
+Hotel ITC Grand Central,MAHARASHTRA,italian,south,expensive,123568
+The Leela Kempinski,MAHARASHTRA,italian,south,expensive,123569
+"The Oberoi, Mumbai",MAHARASHTRA,italian,south,expensive,123570
+The Westin Mumbai Garden City ,MAHARASHTRA,italian,south,expensive,123571
+"Fariyas Resort, Lonavla",MAHARASHTRA,italian,south,expensive,123572
+"Trident, Nariman Point",MAHARASHTRA,italian,south,expensive,123573
+Taj Lands End,MAHARASHTRA,italian,south,expensive,123574
+Trident -  Bhubaneswar ,ORISSA,italian,south,expensive,123575
+Hotel Mayfair Lagoon,ORISSA,italian,south,expensive,123576
+ISTA Amritsar,PUNJAB,italian,south,expensive,123577
+Sheraton Rajputana Hotel,RAJASTHAN,italian,east,expensive,123578
+The Oberoi Rajvilas,RAJASTHAN,italian,east,expensive,123579
+The Oberoi Udaivilas ,RAJASTHAN,italian,east,expensive,123580
+Country Inn & Suites By Carlson,RAJASTHAN,italian,east,expensive,123581
+The Leela Palace Kempinski,RAJASTHAN,italian,east,expensive,123582
+JAI MAHAL PALACE HOTEL,RAJASTHAN,italian,east,expensive,123583
+Mayfair Spa & Resort,SIKKIM,italian,east,expensive,123584
+Taj Mount Road,TAMIL NADU,italian,east,expensive,123585
+THE PARK ,TAMIL NADU,italian,east,expensive,123586
+Vivanta by Taj - Fishermans Cove,TAMIL NADU,italian,east,expensive,123587
+Taj Coromandel,TAMIL NADU,italian,east,expensive,123588
+Le Royal Meridien Chennai,TAMIL NADU,italian,east,expensive,123589
+ITC The Mughal,UTTAR PRADESH,italian,east,expensive,123590
+Jaypee Greens Golf & Spa Resort,UTTAR PRADESH,italian,east,expensive,123591
+Vivanta by Taj ,UTTAR PRADESH,italian,east,expensive,123592
+Taj Ganges Varanasi,UTTAR PRADESH,italian,east,expensive,123593
+Radisson Hotel,UTTAR PRADESH,italian,east,expensive,123594
+Radisson MBD Hotel,UTTAR PRADESH,italian,east,expensive,123595
+Holiday Regency,UTTAR PRADESH,italian,east,expensive,123596
+Jaypee Residency Manor,UTTARAKHAND,italian,east,expensive,123597
+ITC Sonar,WEST BENGAL,italian,east,expensive,123598
+Hotel Ista Hyderabad,ANDHRA PRADESH,italian,east,expensive,123599
+Hotel Novotel Hyderabad,ANDHRA PRADESH,italian,east,expensive,123600
+Novotel Hyderabad Airport ,ANDHRA PRADESH,italian,east,expensive,123601
+The Gateway Hotel ,ANDHRA PRADESH,italian,east,expensive,123602
+Taj Deccan - Hyderabad,ANDHRA PRADESH,italian,east,expensive,123603
+Leo Meridian Infrastructure,ANDHRA PRADESH,italian,east,expensive,123604
+Hotel Mountview,CHANDIGARH,italian,east,expensive,123605
+Hotel Crowne Plaza Today,DELHI,chinese,east,expensive,123606
+Vivanta by Taj Ambassador,DELHI,chinese,east,cheap,123607
+Fortune Select Regina ,GOA,chinese,east,medium,123608
+Bogmallo Beach Resort,GOA,chinese,east,expensive,123609
+DEVAAYA AYURVEDA SPA RESORT ,GOA,chinese,east,expensive,123610
+Holiday Inn Resort,GOA,chinese,North,expensive,123611
+The Crown Goa,GOA,chinese,North,cheap,123612
+Hotel Neo Majestic,GOA,chinese,North,medium,123613
+The Kenilworth Beach Resort & Spa,GOA,chinese,North,expensive,123614
+Hotel La Calypso Get Aways.,GOA,chinese,west,expensive,123615
+"The ""O""",GOA,chinese,west,cheap,123616
+Sun-n-Sand Hotel,GOA,chinese,west,medium,123617
+The Imperial Palace ,GUJARAT,chinese,west,expensive,123618
+Le Meridien,GUJARAT,chinese,west,expensive,123619
+The Gateway Hotel Ummed,GUJARAT,chinese,west,expensive,123620
+The Galaxy Hotel,HARYANA,chinese,west,expensive,123621
+THE CHANCERY PAVILION,KARNATAKA,chinese,west,expensive,123622
+The Zuri - Whitefield,KARNATAKA,chinese,South,expensive,123623
+Fortune Park J. P. Palace,KARNATAKA,chinese,South,cheap,123624
+Hotel Le Meridien - Bangalore,KARNATAKA,chinese,South,medium,123625
+Movenpick Hotel & Spa Bangalore,KARNATAKA,chinese,South,expensive,123626
+Club Mahindra Lakeview, KERALA,chinese,west,expensive,123627
+The Quilon Beach Hotel, KERALA,chinese,west,expensive,123628
+The Elephant Court, KERALA,chinese,west,expensive,123629
+Turtle On The Beach, KERALA,chinese,west,expensive,123630
+Casino Hotel, KERALA,chinese,west,expensive,123631
+"Trident, Cochin", KERALA,chinese,west,expensive,123632
+The Gateway Hotel -Ernakulam, KERALA,chinese,west,expensive,123633
+Kadavu Resort & Ayurveda Centre, KERALA,chinese,west,expensive,123634
+The Muthoot Plaza Hotel, KERALA,chinese,west,expensive,123635
+Taj Residency - Trivandrum, KERALA,chinese,west,expensive,123636
+Hotel Ramada -  Khajuraho,MADHYA PRADESH,chinese,west,expensive,123637
+Radisson Jass Hotel,MADHYA PRADESH,chinese,west,expensive,123638
+Grand Sarovar Premiere,MAHARASHTRA,chinese,west,expensive,123639
+Hotel Meluha,MAHARASHTRA,chinese,west,expensive,123640
+Hotel Tunga Regency Pvt.Ltd. ,MAHARASHTRA,chinese,west,expensive,123641
+Ramada Plaza Palm Grove,MAHARASHTRA,chinese,west,expensive,123642
+The Shalimar Hotel ,MAHARASHTRA,chinese,west,expensive,123643
+THE PRIDE HOTEL ,MAHARASHTRA,chinese,west,expensive,123644
+Four Points By Sheraton,MAHARASHTRA,chinese,west,expensive,123645
+Taj Blue Diamond,MAHARASHTRA,chinese,west,expensive,123646
+The O Hotel,MAHARASHTRA,thai,west,expensive,123647
+Taj Residency - Aurangabad,MAHARASHTRA,thai,west,cheap,123648
+Hotel Sea Princess ,MAHARASHTRA,thai,west,expensive,123649
+The Gateway Hotel,MAHARASHTRA,thai,west,expensive,123650
+Hotel Parc Estique,MAHARASHTRA,thai,west,medium,123651
+Radisson Windsor Hotel ,PUNJAB,thai,west,expensive,123652
+Majestic Park Plaza ,PUNJAB,thai,west,expensive,123653
+Hotel Mansingh,RAJASTHAN,thai,North,expensive,123654
+"Hotel Trident, Jaipur",RAJASTHAN,thai,North,expensive,123655
+Fortune Select Metropolitan - Jaipur,RAJASTHAN,thai,North,cheap,123656
+Chokhi Dhani,RAJASTHAN,thai,North,expensive,123657
+Inder Residency,RAJASTHAN,thai,North,expensive,123658
+Denzong Regency,SIKKIM,thai,North,medium,123659
+The Gateway Hotel Pasumalai Madurai,TAMIL NADU,thai,North,expensive,123660
+Radisson Hotel GRT,TAMIL NADU,thai,North,expensive,123661
+Trident - Chennai,TAMIL NADU,thai,North,expensive,123662
+Hotel Clarks Shiraz,UTTAR PRADESH,thai,west,expensive,123663
+Hotel Trident - Agra,UTTAR PRADESH,thai,west,expensive,123664
+Country Inn & Suites by Carlson.,UTTAR PRADESH,thai,east,cheap,123665
+Radisson Hotel Varanasi,UTTAR PRADESH,thai,east,expensive,123666
+"The Gateway Hotel, Agra",UTTAR PRADESH,thai,east,medium,123667
+Hotel Hindusthan International,WEST BENGAL,thai,east,expensive,123668
+Swissotel Kolkata Neotia Vista,WEST BENGAL,thai,east,expensive,123669
+The Golkonda,ANDHRA PRADESH,thai,east,expensive,123670
+Palm Beach Hotel,ANDHRA PRADESH,thai,east,expensive,123671
+QUALITY INN DV MANOR,ANDHRA PRADESH,thai,east,expensive,123672
+Best Western Amrutha Castle,ANDHRA PRADESH,thai,west,expensive,123673
+Hotel Green Park,ANDHRA PRADESH,thai,west,expensive,123674
+Hotel Raj Mahal,ASSAM,thai,west,expensive,123675
+Hotel Natraj,ASSAM,thai,west,expensive,123676
+Hotel The Royal Plaza,DELHI,thai,west,expensive,123677
+Hotel City Park,DELHI,thai,west,expensive,123678
+Hotel Diplomat,DELHI,thai,west,expensive,123679
+Maidens Hotel,DELHI,thai,South,expensive,123680
+The Connaught,DELHI,thai,South,expensive,123681
+Hotel Vikram,DELHI,thai,South,cheap,123682
+Lazylagoon Sarovar Portico Suites,GOA,thai,South,expensive,123683
+Sun Village Resort,GOA,thai,South,expensive,123684
+WHISPERING PALMS BEACH RESORT,GOA,thai,South,medium,123685
+The Metropole Hotel,GUJARAT,thai,South,expensive,123686
+Hotel Fortune Palace,GUJARAT,thai,South,expensive,123687
+Fortune Inn Haveli,GUJARAT,thai,South,expensive,123688
+Hotel The Grand Bhagwati,GUJARAT,thai,South,expensive,123689
+Optus Sarovar Premiere Hotel,HARYANA,thai,South,expensive,123690
+Park Premier,HARYANA,thai,South,expensive,123691
+The Bella Vista,HARYANA,thai,west,expensive,123692
+Fortune Select Global,HARYANA,thai,west,expensive,123693
+Courtyard By Marriott,HARYANA,thai,west,expensive,123694
+Fortune Park J.P.Celestial,KARNATAKA,thai,west,expensive,123695
+The Gatwway Hotel - Chikmagalur,KARNATAKA,thai,west,expensive,123696
+Raj Residency,KERALA,thai,west,expensive,123697
+Hotel Maurya Rajadhani,KERALA,thai,west,expensive,123698
+Keys Hotels,KERALA,thai,west,expensive,123699
+Hotel Blue Nile,KERALA,thai,west,expensive,123700
+Hotel Amruthaa International,KERALA,thai,west,expensive,123701
+Fragrant Nature Retreat and Resort Pvt. Ltd.,KERALA,thai,west,expensive,123702
+Hotel Presidency,KERALA,thai,west,expensive,123703
+Hotel Raj Regency,KERALA,thai,west,expensive,123704
+ATS Residency,KERALA,thai,west,expensive,123705
+The Royale Gardens,KERALA,thai,west,expensive,123706
+Hotel Srivatsa Regency,KERALA,thai,west,expensive,123707
+Hotel Hills Park,KERALA,thai,west,expensive,123708
+Neelamabari Suite,KERALA,thai,west,expensive,123709
+Excalibur Hotels & Resorts,KERALA,thai,west,expensive,123710
+Raj Residency,KERALA,thai,west,expensive,123711
+Muthoot Cardamom County Resort,KERALA,thai,west,expensive,123712
+Hotel White Dammar International,KERALA,thai,west,expensive,123713
+Hotel SP Grand Days,KERALA,thai,west,expensive,123714
+Hotel Peninsula Park Residency,KERALA,thai,west,expensive,123715
+Hotel Indraprastha,KERALA,thai,west,expensive,123716
+Hotel Mangala Towers,KERALA,thai,west,expensive,123717
+Hotel Soorya Regency,KERALA,thai,west,expensive,123718
+Hotel Moonlit Regency,KERALA,thai,west,expensive,123719
+Hotel Sky Pearl,KERALA,thai,west,expensive,123720
+The Royal Fort,KERALA,thai,west,expensive,123721
+Hotel Soorya Galaxy,KERALA,thai,west,expensive,123722
+Cochin Seaport Hotel,KERALA,thai,west,expensive,123723
+The Avenue Regent,KERALA,thai,west,expensive,123724
+Spice Village,KERALA,thai,west,expensive,123725
+Hotel Midhila Regency,KERALA,thai,west,expensive,123726
+Hotel Soorya Swagat,KERALA,thai,west,expensive,123727
+The Hotel Elegance,KERALA,thai,west,expensive,123728
+K R Grand Residency,KERALA,thai,west,expensive,123729
+Hotel Dona Castle,KERALA,thai,west,expensive,123730
+Hotel Fairmont,KERALA,thai,west,expensive,123731
+Hotel Anandha Inn Pvt. Ltd.,KERALA,thai,west,expensive,123732
+Niya Regency,KERALA,thai,west,expensive,123733
+The South Park,KERALA,thai,west,expensive,123734
+Uday Samudra Leisure Beach Hotel,KERALA,thai,west,expensive,123735
+SEASONS SERVICE APARTMENTS,MAHARASHTRA,thai,west,expensive,123736
+HOTEL BAWA INTERNATIONAL,MAHARASHTRA,thai,west,expensive,123737
+Hotel Courtyard By Marriott,MAHARASHTRA,thai,west,expensive,123738
+Hotel Midtown Pritam,MAHARASHTRA,thai,west,expensive,123739
+Hotel Trident,MAHARASHTRA,thai,west,expensive,123740
+Hotel Tunga Regale,MAHARASHTRA,thai,west,expensive,123741
+Ramee Guestline Hotel,MAHARASHTRA,thai,west,expensive,123742
+"K. Raheja Corp. Pvt. Ltd. ""The Resort""",MAHARASHTRA,thai,west,expensive,123743
+Hotel Sagar Plaza,MAHARASHTRA,thai,west,expensive,123744
+The Central Park Hotel,MAHARASHTRA,thai,west,expensive,123745
+Holiday Inn Mumbai International Airport,MAHARASHTRA,thai,west,expensive,123746
+The Emerald,MAHARASHTRA,thai,west,expensive,123747
+Hotel Polo Tower,MEGHALAYA,thai,west,expensive,123748
+M.K.HOTEL,PUNJAB,thai,west,expensive,123749
+THE MAYA HOTEL (Maya Inns Ltd.),PUNJAB,thai,west,expensive,123750
+Hotel Ritz Plaza,PUNJAB,thai,west,expensive,123751
+"Country In & Suites, Ajmer",RAJASTHAN,thai,west,expensive,123752
+The Royal Plaza,SIKKIM,thai,west,expensive,123753
+The Residency Towers,TAMIL NADU,thai,west,expensive,123754
+Hotel Sangam ,TAMIL NADU,thai,west,expensive,123755
+Quality Inn Sabari,TAMIL NADU,thai,west,expensive,123756
+The Savera Hotel,TAMIL NADU,thai,west,expensive,123757
+Hotel Raj Park (P) Ltd.,TAMIL NADU,thai,west,expensive,123758
+Fortune Inn Grazia,UTTAR PRADESH,thai,west,expensive,123759
+Country Inn & Suites by Carlson - Haridwar,UTTARAKHAND,thai,west,expensive,123760
